@@ -1,0 +1,14 @@
+easyocr==1.7.2
+mss==10.2.0
+numpy==2.5.4
+pillow==13.0.0
+torch==2.15.0
+transformers==5.22.2
+comtypes==1.4.17
+winrt-runtime==4.1.0
+winrt-Windows.Foundation==4!10.0.28000.2957
+winrt-Windows.Foundation.Collections==4!10.0.28000.2957
+winrt-Windows.Globalization==4!10.0.28000.2957
+winrt-Windows.Graphics.Imaging==4!10.0.28000.2957
+winrt-Windows.Media.Ocr==4!10.0.28000.2957
+winrt-Windows.Storage.Streams==4!10.0.28000.2957

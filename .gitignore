@@ -1,0 +1,14 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Runtime files
+live.log
+live.pid
+*.json.tmp
+
+# Personal data (created automatically on first run)
+config.json
+app_colors.json
